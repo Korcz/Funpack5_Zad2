@@ -112,5 +112,10 @@ public class Person
 		return "Person [name=" + name + ", surname=" + surname + ", age=" + age + ", weight=" + weight + "]";
 	}
 	
+	public void nname()
+	{
+		System.out.println("My name is " + name);
+	}
+	
 	
 }
